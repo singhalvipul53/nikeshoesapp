@@ -17,6 +17,25 @@
 		7699B88040F8A987B510C191 /* libPods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.a */; };
 		7F40CB0733E94943905EC39B /* CocoGothic-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1173AB4ABBDB4B5D9B14DD0C /* CocoGothic-Bold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9256B44A2C2693920020BD40 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4362C2693920020BD40 /* AntDesign.ttf */; };
+		9256B44B2C2693920020BD40 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4372C2693920020BD40 /* Entypo.ttf */; };
+		9256B44C2C2693920020BD40 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4382C2693920020BD40 /* EvilIcons.ttf */; };
+		9256B44D2C2693920020BD40 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4392C2693920020BD40 /* Feather.ttf */; };
+		9256B44E2C2693920020BD40 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B43A2C2693920020BD40 /* FontAwesome.ttf */; };
+		9256B44F2C2693920020BD40 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B43B2C2693920020BD40 /* FontAwesome5_Brands.ttf */; };
+		9256B4502C2693920020BD40 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B43C2C2693920020BD40 /* FontAwesome5_Regular.ttf */; };
+		9256B4512C2693920020BD40 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B43D2C2693920020BD40 /* FontAwesome5_Solid.ttf */; };
+		9256B4522C2693920020BD40 /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B43E2C2693920020BD40 /* FontAwesome6_Brands.ttf */; };
+		9256B4532C2693920020BD40 /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B43F2C2693920020BD40 /* FontAwesome6_Regular.ttf */; };
+		9256B4542C2693920020BD40 /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4402C2693920020BD40 /* FontAwesome6_Solid.ttf */; };
+		9256B4552C2693920020BD40 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4412C2693920020BD40 /* Fontisto.ttf */; };
+		9256B4562C2693920020BD40 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4422C2693920020BD40 /* Foundation.ttf */; };
+		9256B4572C2693920020BD40 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4432C2693920020BD40 /* Ionicons.ttf */; };
+		9256B4582C2693920020BD40 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4442C2693920020BD40 /* MaterialCommunityIcons.ttf */; };
+		9256B4592C2693920020BD40 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4452C2693920020BD40 /* MaterialIcons.ttf */; };
+		9256B45A2C2693920020BD40 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4462C2693920020BD40 /* Octicons.ttf */; };
+		9256B45B2C2693920020BD40 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4472C2693920020BD40 /* SimpleLineIcons.ttf */; };
+		9256B45C2C2693920020BD40 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9256B4482C2693920020BD40 /* Zocial.ttf */; };
 		C031BD57377F4FF08DF9B717 /* CarmenSans-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = A22B4FF8E82141D5B8641FCE /* CarmenSans-Thin.otf */; };
 		ECD1DF96CF3049EFA05ED344 /* CarmenSans-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2C1671130CF14840A89CFBD1 /* CarmenSans-Regular.otf */; };
 /* End PBXBuildFile section */
@@ -35,7 +54,7 @@
 		00E356EE1AD99517003FC87E /* NikeShoesEcommerceAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NikeShoesEcommerceAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* NikeShoesEcommerceAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NikeShoesEcommerceAppTests.m; sourceTree = "<group>"; };
-		1173AB4ABBDB4B5D9B14DD0C /* CocoGothic-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "CocoGothic-Bold.ttf"; path = "../assets/fonts/CocoGothic-Bold.ttf"; sourceTree = "<group>"; };
+		1173AB4ABBDB4B5D9B14DD0C /* CocoGothic-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CocoGothic-Bold.ttf"; path = "../assets/fonts/CocoGothic-Bold.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* NikeShoesEcommerceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeShoesEcommerceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = NikeShoesEcommerceApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = NikeShoesEcommerceApp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -43,16 +62,35 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = NikeShoesEcommerceApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = NikeShoesEcommerceApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2C1671130CF14840A89CFBD1 /* CarmenSans-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "CarmenSans-Regular.otf"; path = "../assets/fonts/CarmenSans-Regular.otf"; sourceTree = "<group>"; };
+		2C1671130CF14840A89CFBD1 /* CarmenSans-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CarmenSans-Regular.otf"; path = "../assets/fonts/CarmenSans-Regular.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-NikeShoesEcommerceApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeShoesEcommerceApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeShoesEcommerceApp/Pods-NikeShoesEcommerceApp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-NikeShoesEcommerceApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeShoesEcommerceApp.release.xcconfig"; path = "Target Support Files/Pods-NikeShoesEcommerceApp/Pods-NikeShoesEcommerceApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.debug.xcconfig"; path = "Target Support Files/Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests/Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-NikeShoesEcommerceApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NikeShoesEcommerceApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = NikeShoesEcommerceApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		81B3F70A94BB4FFDAB36C528 /* CocoGothic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = CocoGothic.ttf; path = ../assets/fonts/CocoGothic.ttf; sourceTree = "<group>"; };
-		8281EDCCF8AF4E1F846CA9B6 /* CarmenSans-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "CarmenSans-SemiBold.otf"; path = "../assets/fonts/CarmenSans-SemiBold.otf"; sourceTree = "<group>"; };
+		81B3F70A94BB4FFDAB36C528 /* CocoGothic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = CocoGothic.ttf; path = ../assets/fonts/CocoGothic.ttf; sourceTree = "<group>"; };
+		8281EDCCF8AF4E1F846CA9B6 /* CarmenSans-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CarmenSans-SemiBold.otf"; path = "../assets/fonts/CarmenSans-SemiBold.otf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.release.xcconfig"; path = "Target Support Files/Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests/Pods-NikeShoesEcommerceApp-NikeShoesEcommerceAppTests.release.xcconfig"; sourceTree = "<group>"; };
-		A22B4FF8E82141D5B8641FCE /* CarmenSans-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "CarmenSans-Thin.otf"; path = "../assets/fonts/CarmenSans-Thin.otf"; sourceTree = "<group>"; };
+		9256B4362C2693920020BD40 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		9256B4372C2693920020BD40 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		9256B4382C2693920020BD40 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		9256B4392C2693920020BD40 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		9256B43A2C2693920020BD40 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		9256B43B2C2693920020BD40 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		9256B43C2C2693920020BD40 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		9256B43D2C2693920020BD40 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		9256B43E2C2693920020BD40 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		9256B43F2C2693920020BD40 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		9256B4402C2693920020BD40 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		9256B4412C2693920020BD40 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		9256B4422C2693920020BD40 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		9256B4432C2693920020BD40 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		9256B4442C2693920020BD40 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		9256B4452C2693920020BD40 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		9256B4462C2693920020BD40 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		9256B4472C2693920020BD40 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		9256B4482C2693920020BD40 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		A22B4FF8E82141D5B8641FCE /* CarmenSans-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CarmenSans-Thin.otf"; path = "../assets/fonts/CarmenSans-Thin.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -96,6 +134,7 @@
 		13B07FAE1A68108700A75B9A /* NikeShoesEcommerceApp */ = {
 			isa = PBXGroup;
 			children = (
+				9256B4492C2693920020BD40 /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -148,6 +187,33 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		9256B4492C2693920020BD40 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				9256B4362C2693920020BD40 /* AntDesign.ttf */,
+				9256B4372C2693920020BD40 /* Entypo.ttf */,
+				9256B4382C2693920020BD40 /* EvilIcons.ttf */,
+				9256B4392C2693920020BD40 /* Feather.ttf */,
+				9256B43A2C2693920020BD40 /* FontAwesome.ttf */,
+				9256B43B2C2693920020BD40 /* FontAwesome5_Brands.ttf */,
+				9256B43C2C2693920020BD40 /* FontAwesome5_Regular.ttf */,
+				9256B43D2C2693920020BD40 /* FontAwesome5_Solid.ttf */,
+				9256B43E2C2693920020BD40 /* FontAwesome6_Brands.ttf */,
+				9256B43F2C2693920020BD40 /* FontAwesome6_Regular.ttf */,
+				9256B4402C2693920020BD40 /* FontAwesome6_Solid.ttf */,
+				9256B4412C2693920020BD40 /* Fontisto.ttf */,
+				9256B4422C2693920020BD40 /* Foundation.ttf */,
+				9256B4432C2693920020BD40 /* Ionicons.ttf */,
+				9256B4442C2693920020BD40 /* MaterialCommunityIcons.ttf */,
+				9256B4452C2693920020BD40 /* MaterialIcons.ttf */,
+				9256B4462C2693920020BD40 /* Octicons.ttf */,
+				9256B4472C2693920020BD40 /* SimpleLineIcons.ttf */,
+				9256B4482C2693920020BD40 /* Zocial.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
+			sourceTree = "<group>";
+		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -169,7 +235,6 @@
 				81B3F70A94BB4FFDAB36C528 /* CocoGothic.ttf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -266,13 +331,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9256B4512C2693920020BD40 /* FontAwesome5_Solid.ttf in Resources */,
+				9256B4562C2693920020BD40 /* Foundation.ttf in Resources */,
+				9256B45B2C2693920020BD40 /* SimpleLineIcons.ttf in Resources */,
+				9256B4502C2693920020BD40 /* FontAwesome5_Regular.ttf in Resources */,
+				9256B45C2C2693920020BD40 /* Zocial.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				9256B44D2C2693920020BD40 /* Feather.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				ECD1DF96CF3049EFA05ED344 /* CarmenSans-Regular.otf in Resources */,
+				9256B44C2C2693920020BD40 /* EvilIcons.ttf in Resources */,
+				9256B44F2C2693920020BD40 /* FontAwesome5_Brands.ttf in Resources */,
 				4106A3E46A8E4169A6048F50 /* CarmenSans-SemiBold.otf in Resources */,
+				9256B45A2C2693920020BD40 /* Octicons.ttf in Resources */,
 				C031BD57377F4FF08DF9B717 /* CarmenSans-Thin.otf in Resources */,
+				9256B4552C2693920020BD40 /* Fontisto.ttf in Resources */,
+				9256B4582C2693920020BD40 /* MaterialCommunityIcons.ttf in Resources */,
+				9256B4522C2693920020BD40 /* FontAwesome6_Brands.ttf in Resources */,
 				7F40CB0733E94943905EC39B /* CocoGothic-Bold.ttf in Resources */,
+				9256B44A2C2693920020BD40 /* AntDesign.ttf in Resources */,
+				9256B44B2C2693920020BD40 /* Entypo.ttf in Resources */,
 				1564B9EE715B49978B6E5D99 /* CocoGothic.ttf in Resources */,
+				9256B4572C2693920020BD40 /* Ionicons.ttf in Resources */,
+				9256B44E2C2693920020BD40 /* FontAwesome.ttf in Resources */,
+				9256B4592C2693920020BD40 /* MaterialIcons.ttf in Resources */,
+				9256B4542C2693920020BD40 /* FontAwesome6_Solid.ttf in Resources */,
+				9256B4532C2693920020BD40 /* FontAwesome6_Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
